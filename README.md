@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rashad14
+- 👋 Hi, I’m @Rashad14(Rashad Seyfullayev)
 - 👀 I’m interested in Data Structures and Algorithms, Database and SQL, UNIX or Linux, Programming Languages, Networking, Scripting Languages.
 - 🌱 I’m currently learning Artificial intelligence.
 - 💞️ I’m looking to collaborate on Github.
